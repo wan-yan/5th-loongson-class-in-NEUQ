@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 第一周任务
 
 ## 学前必读
@@ -72,3 +73,6 @@
 仓库地址：https://github.com/Vincent-ice/5th-loongson-class-in-NEUQ
 
 [Github pull request详细教程（提交代码到他人仓库）_github提交代码到别人仓库_I an的博客-CSDN博客](https://blog.csdn.net/CY2333333/article/details/113731490)
+=======
+第二周任务
+>>>>>>> 3ae4813c3e19974878f360209df7976869e163ac
